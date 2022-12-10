@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1551725474 source:e:\computer science\college\year 2\datastructures\fraction\fractioncalculator\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+
+1551726057 source:e:\computer science\college\year 2\datastructures\fraction\fractioncalculator\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+	"Fraction.cpp"
+
+1551725911 e:\computer science\college\year 2\datastructures\fraction\fractioncalculator\include\fractioncalculator.h
+	"Fraction.h"
+	<map>
+	<iostream>
+	<cstring>
+
+1551639537 e:\computer science\college\year 2\datastructures\fraction\fractioncalculator\include\fraction.h
+	<string.h>
+	<cmath>
+	<iostream>
+	<sstream>
+
+1551639540 e:\computer science\college\year 2\datastructures\fraction\fractioncalculator\src\fraction.cpp
+	"Fraction.h"
+
+1551725474 source:c:\users\ehab\desktop\fractioncalculator v2\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+
+1551725911 c:\users\ehab\desktop\fractioncalculator v2\include\fractioncalculator.h
+	"Fraction.h"
+	<map>
+	<iostream>
+	<cstring>
+
+1551914742 c:\users\ehab\desktop\fractioncalculator v2\include\fraction.h
+	<string.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<sstream>
+
+1551914431 source:c:\users\ehab\desktop\fractioncalculator v2\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+	"Fraction.cpp"
+
+1551914862 c:\users\ehab\desktop\fractioncalculator v2\src\fraction.cpp
+	"Fraction.h"
+
+1551725474 source:c:\users\ehab\desktop\a1_g3_20170072_g3_20170094\a1_p2_20170072_20170094\fractioncalculator v2\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+
+1551725911 c:\users\ehab\desktop\a1_g3_20170072_g3_20170094\a1_p2_20170072_20170094\fractioncalculator v2\include\fractioncalculator.h
+	"Fraction.h"
+	<map>
+	<iostream>
+	<cstring>
+
+1551914742 c:\users\ehab\desktop\a1_g3_20170072_g3_20170094\a1_p2_20170072_20170094\fractioncalculator v2\include\fraction.h
+	<string.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<sstream>
+
+1551914886 source:c:\users\ehab\desktop\a1_g3_20170072_g3_20170094\a1_p2_20170072_20170094\fractioncalculator v2\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+	"Fraction.cpp"
+
+1551953040 c:\users\ehab\desktop\a1_g3_20170072_g3_20170094\a1_p2_20170072_20170094\fractioncalculator v2\src\fraction.cpp
+	"Fraction.h"
+
